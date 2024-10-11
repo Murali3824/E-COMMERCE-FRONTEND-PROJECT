@@ -1,6 +1,6 @@
 # ECOMMERCE FRONTEND APP
 
-
+![Screenshot 2024-10-09 172846](https://github.com/user-attachments/assets/29d206cc-8ced-4990-80d9-a433d28a0088)
 
 ## Features
 
@@ -49,7 +49,7 @@ git clone   https://github.com/Murali3824/E-COMMERCE-FRONTEND-PROJECT.git
 
 
 ```
-cd
+cd  <filename>
 ```
 
 
