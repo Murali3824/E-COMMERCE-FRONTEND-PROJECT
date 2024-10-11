@@ -49,7 +49,7 @@ git clone   https://github.com/Murali3824/E-COMMERCE-FRONTEND-PROJECT.git
 
 
 ```
-cd  <filename>
+cd  E-COMMERCE-FRONTEND-PROJECT
 ```
 
 
