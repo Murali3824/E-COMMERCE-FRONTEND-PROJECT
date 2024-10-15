@@ -69,7 +69,7 @@ npm run dev
 ```
 
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the app.
+5. Open your web browser and visit [http://localhost:5175](http://localhost:5175) to access the app.
 
 
 
